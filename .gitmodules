@@ -1,0 +1,12 @@
+[submodule "backend-api"]
+	path = backend-api
+	url = https://github.com/yoms07/crypto-pg-api.git
+[submodule "dashboard-fe"]
+	path = dashboard-fe
+	url = git@github.com:yoms07/lisk-dashboard-fe.git
+[submodule "checkout-ui"]
+	path = checkout-ui
+	url = https://github.com/yoms07/lisk-checkout-ui.git
+[submodule "smart-contract"]
+	path = smart-contract
+	url = git@github.com:yoms07/lisk-smartcontract.git
